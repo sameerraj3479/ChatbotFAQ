@@ -6,7 +6,7 @@ Smart FAQ Assistant is a web-based chatbot developed to answer frequently asked 
 
 The system uses Natural Language Processing techniques to understand user queries and identify the most relevant answer from a predefined knowledge base. Instead of relying on exact keyword matching, the chatbot compares the user's question with stored FAQ entries and returns the closest matching response.
 
-The project was developed as part of the CodeAlpha Artificial Intelligence Internship program and demonstrates the practical use of NLP, text vectorization, similarity matching, and interactive web application development.
+The project was developed as part of the Artificial Intelligence Internship program and demonstrates the practical use of NLP, text vectorization, similarity matching, and interactive web application development.
 
 ---
 
@@ -72,7 +72,7 @@ JSON
 ## Project Structure
 
 ```text
-CodeAlpha_ChatbotFAQ
+ChatbotFAQ
 │
 ├── app.py
 ├── chatbot.py
@@ -134,7 +134,7 @@ Cyber Security Basics
 
 ```bash
 git clone <repository_link>
-cd CodeAlpha_ChatbotFAQ
+cd ChatbotFAQ
 ```
 
 ### Install Dependencies
