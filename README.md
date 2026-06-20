@@ -1,5 +1,5 @@
 # Smart FAQ Assistant
-
+ 
 ## Project Overview
 
 Smart FAQ Assistant is a web-based chatbot developed to answer frequently asked questions related to Artificial Intelligence, Machine Learning, Python Programming, and Computer Science fundamentals.
