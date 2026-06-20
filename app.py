@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 st.title("🤖 Smart FAQ Assistant")
-st.caption("CodeAlpha AI Internship Project")
+
 
 st.sidebar.title("About")
 st.sidebar.info("""
